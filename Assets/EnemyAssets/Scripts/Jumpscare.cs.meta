@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c60c701557c5e4478be393f84826346
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - scareCamera: {instanceID: 0}
+  - wall: {instanceID: 0}
+  - scream: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
